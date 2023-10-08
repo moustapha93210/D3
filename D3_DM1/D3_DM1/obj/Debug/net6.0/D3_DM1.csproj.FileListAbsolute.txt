@@ -1,0 +1,15 @@
+M:\Moustapha\ECOLE\Cours\S3\D3 Mr BLAVIN\D3_DM1\D3_DM1\bin\Debug\net6.0\D3_DM1.exe
+M:\Moustapha\ECOLE\Cours\S3\D3 Mr BLAVIN\D3_DM1\D3_DM1\bin\Debug\net6.0\D3_DM1.deps.json
+M:\Moustapha\ECOLE\Cours\S3\D3 Mr BLAVIN\D3_DM1\D3_DM1\bin\Debug\net6.0\D3_DM1.runtimeconfig.json
+M:\Moustapha\ECOLE\Cours\S3\D3 Mr BLAVIN\D3_DM1\D3_DM1\bin\Debug\net6.0\D3_DM1.dll
+M:\Moustapha\ECOLE\Cours\S3\D3 Mr BLAVIN\D3_DM1\D3_DM1\bin\Debug\net6.0\D3_DM1.pdb
+M:\Moustapha\ECOLE\Cours\S3\D3 Mr BLAVIN\D3_DM1\D3_DM1\obj\Debug\net6.0\D3_DM1.csproj.AssemblyReference.cache
+M:\Moustapha\ECOLE\Cours\S3\D3 Mr BLAVIN\D3_DM1\D3_DM1\obj\Debug\net6.0\D3_DM1.GeneratedMSBuildEditorConfig.editorconfig
+M:\Moustapha\ECOLE\Cours\S3\D3 Mr BLAVIN\D3_DM1\D3_DM1\obj\Debug\net6.0\D3_DM1.AssemblyInfoInputs.cache
+M:\Moustapha\ECOLE\Cours\S3\D3 Mr BLAVIN\D3_DM1\D3_DM1\obj\Debug\net6.0\D3_DM1.AssemblyInfo.cs
+M:\Moustapha\ECOLE\Cours\S3\D3 Mr BLAVIN\D3_DM1\D3_DM1\obj\Debug\net6.0\D3_DM1.csproj.CoreCompileInputs.cache
+M:\Moustapha\ECOLE\Cours\S3\D3 Mr BLAVIN\D3_DM1\D3_DM1\obj\Debug\net6.0\D3_DM1.dll
+M:\Moustapha\ECOLE\Cours\S3\D3 Mr BLAVIN\D3_DM1\D3_DM1\obj\Debug\net6.0\refint\D3_DM1.dll
+M:\Moustapha\ECOLE\Cours\S3\D3 Mr BLAVIN\D3_DM1\D3_DM1\obj\Debug\net6.0\D3_DM1.pdb
+M:\Moustapha\ECOLE\Cours\S3\D3 Mr BLAVIN\D3_DM1\D3_DM1\obj\Debug\net6.0\D3_DM1.genruntimeconfig.cache
+M:\Moustapha\ECOLE\Cours\S3\D3 Mr BLAVIN\D3_DM1\D3_DM1\obj\Debug\net6.0\ref\D3_DM1.dll
